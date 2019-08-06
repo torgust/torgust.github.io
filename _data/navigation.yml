@@ -1,0 +1,11 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Curriculum Vitae"
+    url: /curriculum-vitae/
+  - title: "Shiny apps"
+    url: /shiny-apps/
+  - title: "GitHub"
+    url: https://github.com/torgust
+  - title: "Research Gate"
+    url: https://www.researchgate.net/profile/Torfinn_Gustafsson

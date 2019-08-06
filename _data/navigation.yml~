@@ -1,0 +1,9 @@
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Curriculum Vitae"
+    url: /curriculum-vitae/
+  - title: "Shiny apps"
+    url: /shiny-apps/
+  - title: "GitHub"
+    url: https://github.com/torgust
