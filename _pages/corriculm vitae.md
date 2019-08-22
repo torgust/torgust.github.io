@@ -30,11 +30,20 @@ Master of Science in Medicine	Umeå Universitet (sep 2011 – jan 2017)
 
 ## 	Manuscripts
 *	Gustafsson T, Eriksson A, Wingren CJ. Is cardiomegaly at risk of over diagnosis at autopsy? A Bayesian latent variable mixture model of a heart weight using a nationwide autopsy registry. Unpublished manuscript, Umeå University, Sweden
+
 *	Bäckström B, Eriksson A, Gustafsson T. The utility of routine histological sampling in the assessment of cause and manner of death in forensic practice. Unpublished manuscript, Umeå University, Sweden
+
 *	Gustafsson T, Eriksson A, Wingren CJ. The utility of “heavy lungs” and lung to heart weight ratio as a means to identify suspect intoxication cases. Unpublished manuscript, Umeå University, Sweden
+
 *	Gustafsson T, Eriksson A, Taki H, Ruge T. Relationship between rurality and ISS of traffic fatalities in northern Sweden. Unpublished manuscript, Umeå University, Sweden
+
 *	Gustafsson T, Eriksson A, Wingren CJ. The effect of post-mortem interval on body mass – a Bayesian generalized linear model to estimate ante mortem bodyweight. Unpublished manuscript, Umeå University, Sweden
+
 *	Gustafsson T, Eriksson A, Wingren CJ. Mixed-mode assessment of reference lung weights in a medico-legal autopsy setting, a Bayesian approach. Unpublished manuscript, Umeå University, Sweden
+
+*    Utbo E, Bäckström B, Eriksson A, Gustafsson T. Gun in the hand. Unpublished manuscript, Umeå University, Sweden
+
+*   Skoog W, Rietz A, Eriksson A, Gustafsson T. The relationship between the the number of steps in stair and falling damage. Unpublished manuscript, Umeå University, Sweden
 
 
 ## 	Abstracts
